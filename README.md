@@ -3,6 +3,9 @@ Author: Troy Madsen
 
 THIS WAS CREATED FOR EDUCATIONAL PURPOSES ONLY
 
+Warning:
+Operation of this program should only be performed from within a Virtual Machine.
+
 Compilation:
 g++ -o malware.o -Wall malware.c
 
